@@ -30,5 +30,4 @@ const setUpPage = async () => {
     }
     
 }
-
 export default setUpPage;

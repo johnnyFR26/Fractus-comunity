@@ -1,5 +1,5 @@
 import { db } from "./db";
-import { auth, currentUser, redirectToSignIn } from "@clerk/nextjs/server";
+import { auth,  } from "@clerk/nextjs/server";
 
 
 export const currentProfile = async () => {
